@@ -1,6 +1,6 @@
 # Shiny App: Violence and Organized Crime in Mexico
 
-This directory contains an R Shiny app that provides graphical tools to understand the crisis of violence related to organized crime in Mexico over the past two decades. This is a data visualization project created by Héctor Santiago Bautista Aniceto and Silvio Mauricio Jurado Zenteno, students at El Colegio de México, for academic and scientific dissemination purposes.
+This directory contains an R Shiny app that provides graphical tools to understand the crisis of violence related to organized crime in Mexico over the past two decades. This is a data visualization project created by Silvio Mauricio Jurado Zenteno, student at El Colegio de México, for academic and scientific dissemination purposes.
 
 ## Project Description
 
