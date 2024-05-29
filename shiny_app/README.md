@@ -66,8 +66,12 @@ You can also run this Shiny app directly from GitHub using the `runGitHub` funct
 library(shiny)
 runGitHub("SilvioMJZ_DataSciPortfolio", "your-username", subdir = "shiny_app")
 ```
-
 Replace `"your-username"` with your GitHub username.
+
+## Running the App Online
+You can also access the Shiny app directly through the following link: [Shiny App on shinyapps.io](https://mao-zen.shinyapps.io/Shiny_SS/)
+
+It's a bit heavy, so wait a few seconds for graphs to show correctly.
 
 ## License
 
