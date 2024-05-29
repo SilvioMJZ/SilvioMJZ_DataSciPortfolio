@@ -1,4 +1,4 @@
-# Shiny App: Violence and Organized Crime in Mexico
+# R-Shiny App: Violence and Organized Crime in Mexico
 
 This directory contains an R Shiny app that provides graphical tools to understand the crisis of violence related to organized crime in Mexico over the past two decades. This is a data visualization project created by Silvio Mauricio Jurado Zenteno, student at El Colegio de México, for academic and scientific dissemination purposes.
 
@@ -64,7 +64,7 @@ You can also run this Shiny app directly from GitHub using the `runGitHub` funct
 
 ```r
 library(shiny)
-runGitHub("SilvioMJZ_DataSciPortfolio", "your-username", subdir = "python_assignments/shiny_app")
+runGitHub("SilvioMJZ_DataSciPortfolio", "your-username", subdir = "shiny_app")
 ```
 
 Replace `"your-username"` with your GitHub username.
