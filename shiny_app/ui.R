@@ -19,8 +19,8 @@ ui <- dashboardPage(
                     h2("¡Bienvenidxs!", style = "text-align: center;font-size: 40px;"),  # Larger font size for the title
                     tags$p("En este sitio encontrarás herramientas gráficas para entender la crisis de violencia relacionada 
          con el crimen organizado que ha atravesado México en las últimas dos décadas. 
-         Este es un proyecto de visualización de datos creado por Héctor Santiago Bautista Aniceto y Silvio Mauricio Jurado Zenteno, 
-         estudiantes de El Colegio de México, para fines académicos y de divulgación científica."),
+         Este es un proyecto de visualización de datos creado por Silvio Mauricio Jurado Zenteno, 
+         estudiante de El Colegio de México, para fines académicos y de divulgación científica."),
                     tags$p(
                            "La pregunta principal que guía el proyecto es: ¿cómo ha evolucionado la dinámica de la violencia 
          relacionada con el crimen organizado tanto en intensidad como en su distribución geográfica 
