@@ -1,0 +1,12 @@
+{
+    "urls_and_outputs": [
+        {
+            "url": "https://centrolaboral.gob.mx/listado-cct-nuevos-reforma/",
+            "output_file": "excel_tables/output_nuevos.xlsx"
+        },
+        {
+            "url": "https://centrolaboral.gob.mx/listado-cct-registrados/",
+            "output_file": "excel_tables/output_registrados.xlsx"
+        }
+    ]
+}
