@@ -15,7 +15,6 @@ This repository includes my latest publicly available projects in the realms of 
   - [Research Presentations](#research-presentations)
   - [Discrete Choice Model Estimation](#discrete-choice-model-estimation)
 - [How to Use](#how-to-use)
-- [License](#license)
 
 ## Introduction
 
