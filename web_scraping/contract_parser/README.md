@@ -4,13 +4,15 @@ This project contains a script for parsing information from collective labor con
 
 ## Project Structure
 
+```plaintext
 contract_parser/
 ├── config.json
 ├── contract_parser.py
 ├── README.md
 ├── requirements.txt
 └── excel_tables/
-└── [output_file].xlsx
+    └── [output_file].xlsx
+```
 
 ## Setup
 
@@ -72,10 +74,12 @@ Specifies the URLs to scrape and the output file paths. You can add multiple URL
 
 Lists the required Python packages for the project:
 
+```plaintext
 pandas
 selenium
 beautifulsoup4
 webdriver-manager
+```
 
 ### License
 
