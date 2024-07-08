@@ -9,6 +9,8 @@ This repository includes my latest publicly available projects in the realms of 
   - [Python Assignments](#python-assignments)
     - [Spotify Top 50 Analysis](#spotify-top-50-analysis)
     - [Calculator Package](#calculator-package)
+    - [Coursera EDA](#coursera-eda)
+  - [Contract Parser](#contract-parser)
   - [Shiny App](#shiny-app)
   - [Research Presentations](#research-presentations)
   - [Discrete Choice Model Estimation](#discrete-choice-model-estimation)
@@ -17,7 +19,7 @@ This repository includes my latest publicly available projects in the realms of 
 
 ## Introduction
 
-Welcome to my Data Science Portfolio! This repository showcases various projects that I've worked on, demonstrating my skills in data science, data analytics, data visualization, and machine learning.
+Welcome to my Data Science and Research Projects Portfolio! This repository showcases various projects that I've worked on, mainly regarding data analytics, data visualization, machine learning and Economics and Behavioral Science research.
 
 ## Projects
 
@@ -33,7 +35,15 @@ Welcome to my Data Science Portfolio! This repository showcases various projects
 - **Description**: This package provides a simple calculator class that performs operations such as addition, subtraction, multiplication, division, nth root calculation, and the ability to reset the calculator's state.
 - **Files**: The `CalculatorPackage` folder contains all the relevant files for this package.
 
-## How to Use
+#### Coursera EDA
+
+- **Description**: This project involves using data visualizations to explore the features of Coursera courses data and to test if there are meaningful relationships between the variables found in the dataset.
+- **Files**: The `python_assignments/Coursera_EDA` folder contains all the relevant files for this project.
+
+### Contract Parser
+
+- **Description**: This project contains a script for parsing information of collective labor contracts (CCT) in Mexico from official website URLS. The extracted data is saved to Excel tables. The script uses Selenium for web scraping and BeautifulSoup for parsing the HTML content.
+- **Files**: The `web_scraping/contract_parser` folder contains all the relevant files for this project.
 
 ### Shiny App
 
