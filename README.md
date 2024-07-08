@@ -48,7 +48,7 @@ Welcome to my Data Science and Research Projects Portfolio! This repository show
 ### Shiny App
 
 - **Description**: This directory contains an R Shiny app that provides graphical tools to understand the crisis of violence related to organized crime in Mexico over the past two decades.
-- **Live App**: [Shiny App on shinyapps.io](https://mao-zen.shinyapps.io/Shiny_SS/)
+- **Live App**: [Shiny App on shinyapps.io](https://mao-zen.shinyapps.io/Shiny_SS/) It's a bit heavy, so wait about six seconds for all graphs to load correctly. 
 - **Files**: The `shiny_app` folder contains all the relevant files for the Shiny app.
 
 ### Research Presentations
