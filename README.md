@@ -1,6 +1,6 @@
 # SilvioMJZ_DataSciPortfolio
 
-This repository includes my latest publicly available projects in the realms of Data Science, Data Analytics, Data Visualization & Machine Learning.
+This repository includes my latest publicly available projects in the realms of Data Science, Data Analytics and Behavioral Science research.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ This repository includes my latest publicly available projects in the realms of 
 
 ## Introduction
 
-Welcome to my Data Science and Research Projects Portfolio! This repository showcases various projects that I've worked on, mainly regarding data analytics, data visualization, machine learning and Economics and Behavioral Science research.
+Welcome to my Data Science and Research Projects Portfolio! This repository showcases various projects that I've worked on, mainly regarding Data Analytics, Data Visualization, Machine Learning and Economics and Behavioral Science research.
 
 ## Projects
 
