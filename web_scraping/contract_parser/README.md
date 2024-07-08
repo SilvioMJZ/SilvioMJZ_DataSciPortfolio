@@ -1,6 +1,6 @@
 # Contract Parser
 
-This project contains a script for parsing information from collective labor contracts (CCT) in Mexico that are registered or in the process of registration. 
+This project contains a script for parsing information of collective labor contracts (CCT) in Mexico from official website URL's. 
 The extracted data is saved to Excel tables. The script uses Selenium for web scraping and BeautifulSoup for parsing the HTML content.
 
 ## Project Structure
