@@ -7,9 +7,9 @@ This repository includes my latest publicly available projects in the realms of 
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Python Assignments](#python-assignments)
+    - [Coursera EDA](#coursera-eda)
     - [Spotify Top 50 Analysis](#spotify-top-50-analysis)
     - [Calculator Package](#calculator-package)
-    - [Coursera EDA](#coursera-eda)
   - [Contract Parser](#contract-parser)
   - [Shiny App](#shiny-app)
   - [Research Presentations](#research-presentations)
@@ -25,6 +25,11 @@ Welcome to my Data Science and Research Projects Portfolio! This repository show
 
 ### Python Assignments
 
+#### Coursera EDA
+
+- **Description**: This project involves using data visualizations to explore the features of Coursera courses data and to test if there are meaningful relationships between the variables found in the dataset.
+- **Files**: The `python_assignments/Coursera_EDA` folder contains all the relevant files for this project.
+
 #### Spotify Top 50 Analysis
 
 - **Description**: This project analyzes the top 50 songs on Spotify using various data science techniques.
@@ -34,11 +39,6 @@ Welcome to my Data Science and Research Projects Portfolio! This repository show
 
 - **Description**: This package provides a simple calculator class that performs operations such as addition, subtraction, multiplication, division, nth root calculation, and the ability to reset the calculator's state.
 - **Files**: The `CalculatorPackage` folder contains all the relevant files for this package.
-
-#### Coursera EDA
-
-- **Description**: This project involves using data visualizations to explore the features of Coursera courses data and to test if there are meaningful relationships between the variables found in the dataset.
-- **Files**: The `python_assignments/Coursera_EDA` folder contains all the relevant files for this project.
 
 ### Contract Parser
 
